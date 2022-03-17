@@ -1,0 +1,27 @@
+{
+  "name": "rid-dc-canvas",
+  "version": "1.0.0",
+  "description": "A package to simplifie the usage of canvas for Or whatsapp bot",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ridah23/rid-dc-canvas.git"
+  },
+  "keywords": [
+    "Discord.js",
+    "Canvas",
+    "Welcome",
+  ],
+  "author": "ridah23",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ridah23/rid-dc-canvas/issues"
+  },
+  "homepage": "https://github.com/ridah23/rid-dc-canvas#readme",
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "fortnite-9812": "^1.0.4",
+    "fortnite": "^4.3.2",
+    "moment": "^2.29.1"
+  }
+}
